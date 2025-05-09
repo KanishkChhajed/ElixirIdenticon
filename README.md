@@ -1,3 +1,44 @@
-# ElixirIdenticon
-Elixir program that generates a random image from an input string. Image is similar to default GitHub profile pictures. Created following a Udemy Course by Stephen Grider. Note the mix.exs dependencies for help, as the Udemy course is outdated.
-See 'Zane.png' for an example.
+<h1 align="center">
+    <img src="https://img.shields.io/badge/ElixirIdenticon-🎯-blueviolet?style=for-the-badge" alt="Repo Badge">
+  </h1>
+  
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/121193249?v=4" width="100" style="border-radius:50%;">
+  </p>
+  
+  ---
+  
+  ## 📖 About the Project
+  - **Repository Name:** ElixirIdenticon
+  - **Owner:** KanishkChhajed
+  - **Visibility:** public
+  - **Primary Language(s):** Elixir
+  
+  ---
+  
+  ## 📊 Stats
+  
+  | Stars | Forks | Watchers | Open Issues | Closed Issues |
+  |:----:|:-----:|:--------:|:-----------:|:-------------:|
+  | 0 | 0 | 0 | 0 | 0 |
+  
+  ---
+  
+  ## 📢 Last Commit
+  
+  > "Adding my workflow for testing"
+  
+  ---
+  
+  ## 🤝 Contributors
+  
+  
+  - [`zanglo`](#)
+  
+  - [`KanishkChhajed`](#)
+  
+  
+  ---
+  
+  > *Generated with ❤️ by an automated GitHub Action* 🚀
+  
